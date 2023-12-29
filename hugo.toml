@@ -102,6 +102,8 @@ ordered = true
 [mediaTypes]
 [mediaTypes."application/manifest+json"]
 suffixes = ["webmanifest"]
+[mediATypes."application/pgp-keys"]
+suffixes = ["asc"]
 
 
 ########################### Output Format ##########################
