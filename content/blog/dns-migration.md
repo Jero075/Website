@@ -2,7 +2,7 @@
 title: "DNS Migration"
 meta_title: ""
 description: "i've migrated my website from www.pages.jereileu.ch to www.jereileu.ch"
-date: 2023-11-29T10:00:00Z
+date: 2023-12-29T22:30:00Z
 image: "/images/image-placeholder.png"
 categories: ["DNS", "Web"]
 author: "Jeroen Leuenberger"
