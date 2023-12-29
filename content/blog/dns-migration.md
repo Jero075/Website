@@ -4,9 +4,9 @@ meta_title: ""
 description: "i've migrated my website from www.pages.jereileu.ch to www.jereileu.ch"
 date: 2023-11-29T10:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Web", "Blog"]
+categories: ["DNS", "Web"]
 author: "Jeroen Leuenberger"
-tags: ["web", "go", "hugo", "website"]
+tags: ["web", "dns", "gitlab pages"]
 draft: false
 ---
 
