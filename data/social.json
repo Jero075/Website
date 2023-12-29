@@ -1,24 +1,29 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
+      "name": "youtube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/@Jero075"
     },
     {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
+      "name": "discord",
+      "icon": "fab fa-discord",
+      "link": "https://discordapp.com/users/752039724230770769"
+    },
+    {
+      "name": "steam",
+      "icon": "fab fa-steam",
+      "link": "https://steamcommunity.com/profiles/76561198361284639"
     },
     {
       "name": "github",
       "icon": "fab fa-github",
-      "link": "https://www.github.com/"
+      "link": "https://www.github.com/Jero075"
     },
     {
-      "name": "linkedin",
-      "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "gitlab",
+      "icon": "fab fa-gitlab",
+      "link": "https://git.jereileu.ch/Jero075"
     }
   ]
 }
