@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "www.jereileu.ch/"
+baseURL = "https://www.jereileu.ch"
 # Title of your website (required).
 title = "Jeroen Leuenberger"
 # Your theme name
