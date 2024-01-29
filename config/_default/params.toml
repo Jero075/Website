@@ -59,7 +59,7 @@ show_categories = true
 keywords = ["Personal Website", "Hugo"]
 description = "Jeroen Leuenbgerge's personal website"
 author = "Jeroen Leuenberger"
-image = "images/og-image.png"
+image = "images/logo.png"
 
 
 # site verifications

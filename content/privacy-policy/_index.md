@@ -3,7 +3,7 @@ title: "Privacy Policy"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "Privacy Policy - jereileu.ch"
 # save as draft
 draft: false
 ---

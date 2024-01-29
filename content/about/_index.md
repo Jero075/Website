@@ -1,7 +1,7 @@
 ---
 title: "Jeroen Leuenberger"
 meta_title: "About"
-description: "this is meta description"
+description: "About Jeroen Leuenberger"
 image: "/images/avatar.png"
 draft: false
 ---

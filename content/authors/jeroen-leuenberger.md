@@ -2,7 +2,7 @@
 title: Jeroen Leuenberger
 email: jereileu@proton.me
 image: "/images/avatar.png"
-description: this is meta description
+description: Authors - Jeroen Leuenberger
 social:
   - name: github
     icon: fa-brands fa-github
